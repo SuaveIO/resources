@@ -17,4 +17,4 @@ architected.
 
 ## Papers
 
-See [/papers](/SuaveIO/resources/tree/master/papers)
+See [/papers](https://github.com/SuaveIO/resources/tree/master/papers)
