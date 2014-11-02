@@ -5,8 +5,9 @@ architected.
 
 ## F# Links
 
- - [eulerfx/HyperF](https://github.com/eulerfx/HyperF)
+ - [eulerfx/HyperF](https://github.com/eulerfx/HyperF) - services and filters (and routing)
  - [F# web stack (not so much about us)](https://groups.google.com/forum/#!forum/web-stack-fs)
+ - [xyncro/frost](https://github.com/xyncro/frost) - [OWIN](http://owin.org/)
 
 ## Inspiration
 
