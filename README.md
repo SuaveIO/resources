@@ -1,13 +1,7 @@
 # Suave.IO Resources
 
-Useful assets for graphic design for suave and for reading up on how suave is
+Useful assets for graphic design for Suave and for reading up on how suave is
 architected.
-
-## F# Links
-
- - [eulerfx/HyperF](https://github.com/eulerfx/HyperF) - services and filters (and routing)
- - [F# web stack (not so much about us)](https://groups.google.com/forum/#!forum/web-stack-fs)
- - [xyncro/frost](https://github.com/xyncro/frost) - [OWIN](http://owin.org/)
 
 ## Inspiration
 
